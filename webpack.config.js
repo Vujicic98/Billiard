@@ -49,6 +49,7 @@ module.exports = {
 
     devtool: "source-map",
     devServer: {
+        open: true,
         static: "./dist",
         hot: true,
     }
