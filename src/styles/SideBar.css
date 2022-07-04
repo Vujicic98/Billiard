@@ -1,0 +1,19 @@
+.Dugme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.1rem solid white;
+    height: 55px;
+    width: 174px;
+    margin: 3rem 3rem 5rem 3rem;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Dugme:hover{
+    transform: scale(1.05);
+}
+
+
